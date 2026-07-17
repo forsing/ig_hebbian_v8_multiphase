@@ -310,12 +310,12 @@ Kola: 4652 | seed=39 | N_PHASES=2 | ig_hebbian_v8
 last: [7, 8, 14, 15, 17, 23, 32]
 
 === next po fazi ===
-  φ00: [2, 13, 16, 19, 31, 33, 35]
-  φ01: [3, 5, 6, 20, 22, 24, 39]
+  φ00: [2, x, 16, y, 31, z, 35]
+  φ01: [3, x, 6, y, 22, z, 39]
 
 === next ===
-next: [2, 13, 16, 19, 31, 33, 35]
-next: [3, 5, 6, 20, 22, 24, 39]
+next: [2, x, 16, y, 31, z, 35]
+next: [3, x, 6, y, 22, z, 39]
 """
 
 
@@ -336,5 +336,5 @@ Sledeći mehanizam (v8): više cirkadijalnih faza (φ₀ mreža) × ista geometr
 
 
 """
-Hebbian linija (geometrija → Perez → RLM → OT → follow → walk → kalibracija) je zatvorena. 
+Hebbian linija (geometrija → Perez → RLM → OT → follow → walk → kalibracija) je zavrsena. 
 """
